@@ -1,0 +1,60 @@
+{
+    "ads_mode" : "yandex",
+    "interstitial_interval": 1,
+    "native_interval": 2,
+
+    "admost_app_id" : "cf834bb4-663e-422d-97c8-96f26d7a8f8a",
+    "admost_banner_id" : "banner",
+    "admost_native_id" : "native",
+    "admost_interstitial_id" : "interstitial",
+
+    "tapdaq_app_id" : "60c3349f08fe6c2d735d663a",
+    "tapdaq_client_key" : "fbce30ca-5e3a-44c6-9bc1-7fa49668c4a3",
+    "tapdaq_banner_id" : " Banner",
+    "tapdaq_native_id" : "Native",
+    "tapdaq_interstitial_id" : "Inter",
+
+    "yandex_app_id" : "",
+    "yandex_banner_id" : "R-M-DEMO-320x50",
+    "yandex_native_id" : "R-M-DEMO-300x250",
+    "yandex_interstitial_id" : "R-M-DEMO-480x320",
+
+    "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
+    "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
+    "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
+
+    "content":[
+      {
+        "title": "title1",
+        "description": "Cras tincidunt quis urna eu blandit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eu lacinia velit, quis ultrices dolor.//BREAK// Nulla mattis leo vitae pellentesque pretium. Sed commodo dui dolor. Aenean id sapien dignissim, vehicula mauris ut, sollicitudin nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
+        "image":"1.jpg"
+      },
+      {
+        "title": "title2",
+        "description": "Nulla quis lorem a nunc semper finibus tincidunt ac odio. Vivamus volutpat volutpat risus, quis suscipit nunc tincidunt vel. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer ut nibh et augue consequat consequat. Vestibulum vel libero ut lorem mollis blandit. Maecenas lacinia ligula sit amet odio posuere, sed dictum mi gravida. Nulla rhoncus, leo nec hendrerit commodo, dolor felis varius velit,//BREAK// at semper ligula turpis ac mi. Cras at arcu sed arcu porta venenatis. Mauris luctus auctor magna, sit amet luctus lacus dignissim consequat. Ut sed lacus a lectus vehicula condimentum sed ut lacus. Sed tincidunt fermentum justo maximus hendrerit.",
+        "image":"2.jpg"
+      },
+      {
+
+        "title": "title3",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.//BREAK// Nam bibendum ipsum ligula, fringilla finibus dolor consequat et. Donec ex dolor, cursus vitae enim et, blandit egestas odio. Praesent a elementum ante. Vestibulum dolor urna, dapibus vitae egestas eu, volutpat id nulla. Vestibulum in elit eget mauris scelerisque volutpat vel vel ipsum. Nunc iaculis lacinia nisl a faucibus. Cras volutpat enim eu scelerisque egestas. Nulla facilisi. Sed gravida ante rutrum erat scelerisque bibendum. Phasellus rutrum eros velit, eget porttitor ante posuere et.",
+        "image":"3.jpg"
+      },
+      {
+        "title": "title4",
+        "description": "Praesent in neque ac tellus posuere pharetra. Curabitur a commodo erat, id eleifend odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.//BREAK// Mauris sem nisl, vulputate id viverra quis, consectetur vitae nisi. Etiam scelerisque sem felis, in interdum quam ullamcorper vel. Etiam tempus tincidunt pretium. Ut id turpis et est blandit fermentum a ac dui. Ut ornare condimentum vehicula. Integer malesuada magna tortor.",
+        "image":"4.jpg"
+      },
+      {
+        "title": "title5",
+        "description": "Mauris sed ligula eu eros porta convallis. Aliquam rutrum suscipit nisl non volutpat. Nulla quam lectus, tincidunt eu tortor eu, porttitor blandit odio. Morbi laoreet dui quam, sit amet blandit ex ornare id. Proin ultricies sapien eget pulvinar faucibus. Curabitur varius blandit pretium. Morbi sit amet nunc orci. //BREAK// Proin ex mi, iaculis vel augue sit amet, tempor vestibulum diam. Ut eget placerat leo. Maecenas enim velit, efficitur sit amet ornare at, fermentum sit amet est.",
+        "image":"5.jpg"
+      },
+      {
+        "title": "title6",
+        "description": "description example lorem ipsum doli",
+        "image":"6.jpg"
+      }
+
+    ]
+  }
